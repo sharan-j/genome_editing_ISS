@@ -5,7 +5,6 @@ For details: see publication (link to be added)
 For a detailed protocol on tissue processing, library preparation and imaging: see (link to be added)
 
 The image analysis and quantification pipeline consists of two parts:
-
 Step 1. Image processing using CellProfiler
 Step 2. Base calling using the intensity measurement data exported from the previous step
 
