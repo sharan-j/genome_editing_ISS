@@ -54,3 +54,11 @@ Set the path name to the input files in the R script and run the code.
 Output: 
 The output is a tab-separated table containing the percentage of edited and unedited cells quantified in each image.
 
+
+
+
+
+
+Output: 
+The output is a tab-separated table containing the percentage of edited and unedited cells quantified in each image.
+
