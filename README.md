@@ -13,13 +13,13 @@ Below is a brief description on how to use the CellProfiler pipeline and the acc
 Installation: git clone https://github.com/sharan-j/genome_editing_ISS.git
 
 Pre-requisites:
-CellProfiler (minimum version 4.1.3)
-R version (minimum version 3.5.2)
-R packages:
-    tidyverse version 2.0.0
-    reshape2 version 1.4.4
-    tiff version 0.1-11
-    imager version 0.42.18
+1. CellProfiler (minimum version 4.1.3)
+2. R version (minimum version 3.5.2)
+    R packages:
+        tidyverse version 2.0.0
+        reshape2 version 1.4.4
+        tiff version 0.1-11
+        imager version 0.42.18
 
 Pre-processing: 
 A detailed protocol for tissue processing, library preparation and imaging can be found here (link to be added)
