@@ -1,12 +1,16 @@
 # genome_editing_ISS
 
 The files here are used for image analysis and quantification of genome editing using imaging-based in situ sequencing (ISS) in native tissue sections.
+
 For details: see publication (link to be added)
+
 For a detailed protocol on tissue processing, library preparation and imaging: see (link to be added)
 
 The image analysis and quantification pipeline consists of two parts:
 
+
 Step 1. Image processing using CellProfiler
+
 
 Step 2. Base calling using the intensity measurement data exported from the previous step
 
@@ -17,11 +21,17 @@ Installation: git clone https://github.com/sharan-j/genome_editing_ISS.git
 Pre-requisites:
 
 CellProfiler (minimum version 4.1.3)
+
 R version (minimum version 3.5.2)
+
 R packages:
+
     tidyverse version 2.0.0
+    
     reshape2 version 1.4.4
+    
     tiff version 0.1-11
+    
     imager version 0.42.18
 
 
@@ -56,11 +66,4 @@ Set the path name to the input files in the R script and run the code.
 Output: 
 The output is a tab-separated table containing the percentage of edited and unedited cells quantified in each image.
 
-
-
-
-
-
-Output: 
-The output is a tab-separated table containing the percentage of edited and unedited cells quantified in each image.
 
