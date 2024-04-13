@@ -31,7 +31,7 @@ Step 1. Image processing using CellProfiler
 Input:
 The input files for step 1 are the .tiff files generated upon the sequencing-by-sythesis step of ISS.
 Briefly, the CellProfiler pipeline takes as input:
-1. the .tiff files containing costaining for the cell types of interest (For example, Ecad and phalloidin on murine liver tissue sections).
+1. the .tiff files containing costaining for the tissue regions of interest (For example, Ecad and GS for liver zonation).
 2. the .tiff files for each sequencing-by-synthesis cycle, one image per cycle.
 
 The images are maximum projections of the Z-stacks and (if required) background subtracted. 
